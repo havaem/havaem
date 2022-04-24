@@ -7,7 +7,7 @@ Target: Web Developer
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [vhnvohoainam@gmail.com](mailto:vhnvohoainam@gmail.com)
 
-![Logo](https://i.pinimg.com/originals/55/d5/d0/55d5d0a45b5799b6fd245080d83b57e7.jpg)
+![Logo](https://media1.giphy.com/media/3oKIP73vEZmJjFNXtC/giphy.gif?cid=790b76111eb620db24c003df31f680547e16ba04eb113521&rid=giphy.gif&ct=g)
 
 <a href="https://www.github.com/havaem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/havaem?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
