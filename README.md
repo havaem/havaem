@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=havaem">
   <img src="https://img.shields.io/github/followers/havaem">
 </p>
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning everything from the world<br>🎲 Fun fact: Luck is not my friend<br>  ✉️  Contact me at [vhnvohoainam@gmail.com](mailto:vhnvohoainam@gmail.com)</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning everything from the world<br>🎲 Fun fact: Luck is not my friend<br>  ✉️  Contact me at vhnvohoainam@gmail.com</p>
 
 ###
 
