@@ -21,8 +21,6 @@
 </br>
 * 🎲 Fun fact: Luck is not my friend
 </br>
-* ✉️ You can contact me at [vhnvohoainam@gmail.com](mailto:vhnvohoainam@gmail.com)
-
 
 ###
 
