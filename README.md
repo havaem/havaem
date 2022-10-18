@@ -14,18 +14,14 @@
   <img src="https://komarev.com/ghpvc/?username=havaem">
   <img src="https://img.shields.io/github/followers/havaem">
 </p>
-<p align="left">
-  ✨ Creating bugs since 2019  
-</p>
-<p align="left">
-  📚 I'm currently learning everything from the world
-</p>
-<p align="left">
-  🎲 Fun fact: Luck is not my friend
-</p>
-<p align="left">
-  ✉️ You can contact me at [vhnvohoainam@gmail.com](mailto:vhnvohoainam@gmail.com)
-</p>
+<br/>
+* ✨ Creating bugs since 2019  
+</br>
+* 📚 I'm currently learning everything from the world
+</br>
+* 🎲 Fun fact: Luck is not my friend
+</br>
+* ✉️ You can contact me at [vhnvohoainam@gmail.com](mailto:vhnvohoainam@gmail.com)
 
 
 ###
