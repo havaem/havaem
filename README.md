@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/havaem/havaem/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/havaem/havaem/output/snake.svg" alt="Snake animation" />
 
 ###
 
